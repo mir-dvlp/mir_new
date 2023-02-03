@@ -88,3 +88,11 @@ button:focus-visible {
   background-size: cover;
   background-position: center;
 }
+
+.msp {
+  background-image: url(/bg_msp.webp);
+}
+
+.lg {
+  background-color: #212121;
+}
