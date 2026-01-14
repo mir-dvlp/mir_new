@@ -10,7 +10,7 @@ function App() {
           </div>
           <div class="title">
             <span class="name">Михаил Иванов</span>
-            <span class="caption">UI/UX-Дизайнер,<br/>разработчик</span>
+            <span class="caption">UI/UX-Дизайнер,<br/>Дизайн-инженер</span>
           </div>
           <div className='row'>
             <Card type="icon_card hover" href="https://www.behance.net/mir_dsgn" src="/s_behance.webp" name="Behance"/>
